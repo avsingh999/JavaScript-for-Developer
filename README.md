@@ -31,6 +31,9 @@
 - Update in Readme.md file
 - create a pull request
 
+## Issuses
+
+- [while_lopp](./whileLoop/whileLoop.md)
 
 <hr/>
 <p align='center'>:heart: :heart: :heart:</p>
