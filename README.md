@@ -35,4 +35,4 @@
 <hr/>
 <p align='center'>:heart: :heart: :heart:</p>
 <p align='center'> <strong>JavaScript</strong> </p>
-<p align='center'>Add info what you know in python and update any algorithm or any other</p>
+<p align='center'>Add info what you know in JavaScript and update any algorithm or any other</p>
