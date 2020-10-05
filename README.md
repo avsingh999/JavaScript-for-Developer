@@ -1,7 +1,7 @@
 # JavaScript
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/avsingh999/)
-[![opensource](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/avsingh999) 
+[![opensource](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/avsingh999)
 
 
 
@@ -19,6 +19,8 @@
 ####  General
 - [How to print in JavaScript](https://github.com/avsingh999/JavaScript-for-Developer/blob/main/helloWorld.js)
 - [while loop in JavaScript](./whileLoop/whileLoop.md)
+- [Strings in JavaScript](strings.md)
+
 
 ### Algorithm
 
