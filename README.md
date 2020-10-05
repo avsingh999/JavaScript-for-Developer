@@ -18,7 +18,7 @@
 
 ####  General
 - [How to print in JavaScript](https://github.com/avsingh999/JavaScript-for-Developer/blob/main/helloWorld.js)
-- [while_lopp](./whileLoop/whileLoop.md)
+- [while loop in JavaScript](./whileLoop/whileLoop.md)
 
 ### Algorithm
 
