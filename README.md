@@ -34,6 +34,7 @@
 ## Issuses
 
 - [while_lopp](./whileLoop/whileLoop.md)
+- [Objects](./objects.md)
 
 <hr/>
 <p align='center'>:heart: :heart: :heart:</p>
