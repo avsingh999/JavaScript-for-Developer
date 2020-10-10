@@ -1,3 +1,4 @@
+
 # JavaScript
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/avsingh999/)
@@ -15,10 +16,10 @@
 
 - This repo will be go beginner to .................
 
-#### General
-
+####  General
 - [How to print in JavaScript](https://github.com/avsingh999/JavaScript-for-Developer/blob/main/helloWorld.js)
 - [while loop in JavaScript](./whileLoop/whileLoop.md)
+- [Objects in JavaScript](./objects.md)
 - [Strings in JavaScript](strings.md)
 - [Switch case in Javascript](./switch_case.md)
 
