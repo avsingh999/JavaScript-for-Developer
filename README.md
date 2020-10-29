@@ -13,13 +13,6 @@
 # JavaScript-for-Developer
 JavaScript programs for Developer to find some helps to write a program or code.
 
-
-Reference : [w3schools](https://www.w3schools.com/js/js_operators.asp), editor : [wahyuamirulloh](https://github.com/wahyuamirulloh/)
-
-- This repos Will Help to JavaScript Developer(:heart:) to write a program or code.
-
-- This repo will be go beginner to .................
-
 #### General
 
 - [How to print in JavaScript](https://github.com/avsingh999/JavaScript-for-Developer/blob/main/helloWorld.js)
