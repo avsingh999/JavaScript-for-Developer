@@ -84,9 +84,11 @@ Reference : [w3schools](https://www.w3schools.com/js/js_operators.asp), editor :
 
 - This repo will be go beginner to .................
 
-####  General
+#### General
+
 - [How to print in JavaScript](https://github.com/avsingh999/JavaScript-for-Developer/blob/main/helloWorld.js)
 - [while loop in JavaScript](./whileLoop/whileLoop.md)
+- [Arrays in Javascript](./arrays/array.md)
 - [Objects in JavaScript](./objects.md)
 - [Strings in JavaScript](strings.md)
 - [Switch case in Javascript](./switch_case.md)
