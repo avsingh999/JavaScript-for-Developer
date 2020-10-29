@@ -1,0 +1,9 @@
+const express = require('express');
+const app = express();
+const host = '0.0.0.0';
+cost port = 8080;
+
+
+app.listen(port, host, function() {
+    console.log('Listening to port:  ' + port);
+});
